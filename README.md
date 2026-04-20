@@ -199,7 +199,7 @@ FastAPI
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iampriyadarshanigangurde&show_icons=true&hide_border=true&bg_color=0e0e10&title_color=6ee7b7&icon_color=a78bfa&text_color=888899&ring_color=6ee7b7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iampriyadarshanigangurde-netizen&show_icons=true&hide_border=true&bg_color=000000&title_color=6ee7b7&icon_color=a78bfa&text_color=888899&ring_color=6ee7b7"/>
 </div>
 
 <br/>

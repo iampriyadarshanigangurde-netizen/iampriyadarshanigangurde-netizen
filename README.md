@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <samp>// data scientist · ai/ml · fordham university</samp>
+  <samp>// Data Scientist · Ai/Ml · Fordham University</samp>
 </div>
 
 <br/>
@@ -79,7 +79,7 @@ Full recommendation pipeline on 392K retail transactions. RFM analysis → K-Mea
 <td width="50%" valign="top">
 
 ### `03` — AI Flashcard Generator
-**Fordham University · Published Paper · 2024**
+**Fordham University · 2024**
 
 AI teaching assistant that transforms YouTube videos into structured Q&A flashcards. Handles transcript retrieval, tiktoken preprocessing, LangChain key-concept extraction via Gemini, and JSON output delivery.
 
